@@ -1,5 +1,11 @@
+/*
+ *[OK]
+ *[TA's advise]
+ *基本上沒有什麼太大問題, 同時有加入除法分母不得為零的判斷非常好!
+ * */
+
 import java.util.Scanner;
-import java.util.PrimitiveIterator.OfDouble;
+//import java.util.PrimitiveIterator.OfDouble;
 
 public class ScannerTester{
 	public static void main(String[] args){
